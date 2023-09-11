@@ -1,0 +1,71 @@
+
+.theme-secondary-bg-color{background-color: #1B9CE3}
+.theme-secondary-text-color{color: #1B9CE3}
+.theme-primary-text-color{color: #1B9CE3}
+.theme-primary-bg-color{background-color: #1B9CE3}
+
+
+.navbar-brand:hover{color: black}
+.mid-menu li :hover{
+    background-color: #1B9CE3;
+    color: white;
+}
+.dropdown:hover .dropdown-menu{display: block;}
+.home-text
+{
+    color: #0d6efd;
+}
+
+.carousel-card
+{
+    margin-bottom: 200px;
+}
+
+.font-banner{
+    font-size:45px;
+}
+.carousel-bg-cartein
+{
+    background-color: rgba(14, 62, 127, 0.65);
+    height: 100%;
+}
+
+.btn-margin{
+    margin-left: 250px;
+}
+
+.card-bg
+{
+    background-color: #1b9ce3;
+}
+
+.inner-bg
+{
+    background-color: rgba(14, 62, 127, 0.65);
+    height: 100%;
+}
+.counter-bg
+{
+    background-image: url("../images/bg_3.jpg");
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.fs-30
+{
+    font-size: 30px;
+}
+
+.line
+{
+    width: 50px;
+    height: 3px;
+    background-color: #0e3e7f;
+    margin-left: 40%;
+}
+
+.feature:hover{
+    background-color: #1b9ce3;
+}
